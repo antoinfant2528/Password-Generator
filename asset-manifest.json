@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/genpassword/static/css/main.8c585d64.css",
-    "main.js": "/genpassword/static/js/main.6d45093e.js",
-    "static/js/453.84c251e6.chunk.js": "/genpassword/static/js/453.84c251e6.chunk.js",
-    "index.html": "/genpassword/index.html",
-    "main.8c585d64.css.map": "/genpassword/static/css/main.8c585d64.css.map",
-    "main.6d45093e.js.map": "/genpassword/static/js/main.6d45093e.js.map",
-    "453.84c251e6.chunk.js.map": "/genpassword/static/js/453.84c251e6.chunk.js.map"
+    "main.css": "/Password-Generator/static/css/main.8c585d64.css",
+    "main.js": "/Password-Generator/static/js/main.2c2a97e7.js",
+    "static/js/453.84c251e6.chunk.js": "/Password-Generator/static/js/453.84c251e6.chunk.js",
+    "index.html": "/Password-Generator/index.html",
+    "main.8c585d64.css.map": "/Password-Generator/static/css/main.8c585d64.css.map",
+    "main.2c2a97e7.js.map": "/Password-Generator/static/js/main.2c2a97e7.js.map",
+    "453.84c251e6.chunk.js.map": "/Password-Generator/static/js/453.84c251e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c585d64.css",
-    "static/js/main.6d45093e.js"
+    "static/js/main.2c2a97e7.js"
   ]
 }
