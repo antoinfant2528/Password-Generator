@@ -4,6 +4,8 @@
 
 
 ## 📄 `README.md`
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)]("https://antoinfant2528.github.io/Password-Generator")
+
 
 `md
 # 🔐 Secure Password Generator (React)
