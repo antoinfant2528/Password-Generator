@@ -1,6 +1,5 @@
-Below is a **ready-to-use README.md** ✅
-and **simple steps to upload to GitHub** 👇
-(no extra explanation, clean & interview-ready)
+<img width="879" height="523" alt="image" src="https://github.com/user-attachments/assets/0876c4f1-6ab6-493e-bcf4-68448616f090" />
+<img width="930" height="509" alt="image" src="https://github.com/user-attachments/assets/d0680ada-b940-4282-a57e-41b44c485029" />
 
 
 
